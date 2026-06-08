@@ -9,11 +9,13 @@
 - MongoDB
 - Git & GitHub
 
-## Goals for 2026
-- Build strong full-stack development skills
-- Create impactful projects
-- Contribute to open source
-- Prepare for internships
+## Tech Stack
+- C++
+- HTML
+- CSS
+- JavaScript
+- React.Js
+- Git & GitHub
 
 ## Connect With Me
 📧 bhardwajarpit570@gmail.com
