@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Arpit 👋
 
-<!--
-**bhardwaj-arpit-01/bhardwaj-arpit-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student
 
-Here are some ideas to get you started:
+## Currently Learning
+- Web Development
+- React
+- Node.js
+- MongoDB
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals for 2026
+- Build strong full-stack development skills
+- Create impactful projects
+- Contribute to open source
+- Prepare for internships
+
+## Connect With Me
+📧 bhardwajarpit570@gmail.com
